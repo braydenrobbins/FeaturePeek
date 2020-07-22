@@ -11,3 +11,4 @@ Check out [more FeaturePeek example repos](https://github.com/featurepeek?utf8=â
 
 This is a small change
 Another small change
+One more change
