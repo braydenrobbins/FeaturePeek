@@ -9,6 +9,4 @@ This particular repo uses:
 Check out [more FeaturePeek example repos](https://github.com/featurepeek?utf8=✓&q=example&type=&language=) to find out how to integrate with FeaturePeek using different combinations of CI services, front-end frameworks, and container registries. 
 
 
-This is a small change
-Another small change
-One more change
+New change
